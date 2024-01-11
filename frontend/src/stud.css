@@ -1,0 +1,224 @@
+/* newstud div 1st */
+
+.student1
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: left;
+    background-color:rgb(67, 67, 199);
+}
+
+.img1 
+{
+    display: flex;
+
+}
+
+.img1 img
+{
+    height: 700px;
+    width: 100%;
+    padding-left: 10px;
+    margin-top: 20px;
+    
+
+}
+
+      .txt
+        {
+            display: flex;
+            justify-content: space-between;
+
+        }
+
+        p
+        {
+            color:rgb(3, 15, 4);
+            text-align: 20px;
+		}
+
+.student2 input
+{
+    
+    margin-top: 20px;
+    padding: 10px;
+    width: 300px;
+}
+
+span
+{
+    margin-left:100px ;
+}
+
+.side 
+{
+    margin-left: -20px;
+    padding: 10px;
+    width: 200px;
+    height: 50px;
+}
+
+
+
+/* end newstud */
+
+/* signin start */
+
+.signin
+{
+   margin-left: 400px ;
+   height: 500px;
+   width: 500px;
+}
+
+.signin input
+{
+    display: block;
+    margin-top: 20px;
+    padding: 10px;
+    width: 300px;
+    margin-left: 100px;
+}
+
+.signin button
+{
+    margin-top: 10px;
+    padding: 10px;
+    width: 200px;
+}
+
+
+
+/* END SIGNIN */
+
+/* for signup */
+
+.signup
+{
+   margin-left: 400px ;
+   height: 500px;
+   width: 500px;
+}
+
+
+.signup input
+{
+    display: block;
+    margin-top: 20px;
+    padding: 10px;
+    width: 300px;
+    margin-left: 100px;
+}
+
+.signup button
+{
+    margin-top: 10px;
+    margin-left: 100px;
+    padding: 10px;
+    width: 200px;
+}
+.side
+{
+    margin-top: 10px;
+    margin-left: 100px;
+
+}
+
+/* end of signup */
+
+/* nav start */
+
+.nn
+{
+    width: 5%;
+    color:rgb(30, 231, 53);
+    font-size: larger;
+    transition: all ease 0.5s;
+
+}
+.nn:hover
+{
+    transform:scale(1.05);
+}
+
+
+.nav
+{
+    background-color: rgb(27, 3, 63);
+    font-weight: bold;
+    font-size: large;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav li
+{
+    display: inline-block;
+    padding: 25px;
+}
+
+.nav .oo
+{
+    color:rgb(30, 231, 53);
+}
+
+.nav li .oo:hover
+{
+    color: rgb(246, 67, 8);
+}
+
+/* nevbar end */
+
+.update
+{
+   margin-left: 400px ;
+   height: 500px;
+   width: 500px;
+}
+
+.update input
+{
+    display: block;
+    margin-top: 20px;
+    padding: 10px;
+    width: 300px;
+    margin-left: 100px;
+}
+
+.side
+{
+    margin-top: 10px;
+    margin-left: 100px;
+
+}
+
+/* studlist */
+
+.list
+{
+    margin-top: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.list ul li
+{
+    display: inline-block;
+    margin-left: 10px;
+    padding-left: 10px; 
+    
+}
+
+.search-container
+{
+    text-align: center;
+}
+
+/* end studlist */
+
+
+        
+		
+        
